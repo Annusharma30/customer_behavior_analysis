@@ -13,17 +13,17 @@ Description: Contains structured data related to [customer behavior / sales / op
 
 Size: Medium-sized dataset suitable for analytics and visualization
 
-Source: Public / Provided dataset / Kaggle (mention if applicable)
+Source:  Kaggle
 
 🛠 Tools & Technologies
 
 Python – Data loading, cleaning, and EDA
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Libraries: Pandas, NumPy
 
 SQL – Data querying and analysis
 
-PostgreSQL / MySQL / SQL Server
+PostgreSQL 
 
 Power BI – Interactive dashboard and visual storytelling
 
@@ -84,8 +84,6 @@ Trend analysis
 Category-wise and time-based insights
 
 Interactive filters for deeper exploration
-
-(Screenshot or Power BI link can be added here)
 
 📈 Results & Insights
 
